@@ -1,0 +1,10 @@
+header{
+    background-color: #2C3E50;
+    padding: 1rem;
+}
+
+.colored{
+    background-color: green;
+    border: 1px solid black;
+    height: 50px;
+}
