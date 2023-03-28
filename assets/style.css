@@ -14,6 +14,10 @@ header{
     padding-bottom: 1rem;
 }
 
+img{
+    width: 50%;
+}
+
 .white{
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -52,6 +56,47 @@ hr{
 
 .seppia{
     background-color: antiquewhite;
+}
+
+.center{
+    justify-content: center;
+}
+
+.btn{
+    height: 80px;
+    width: 160px;
+    background-color: white;
+}
+
+.square{
+    height: 100px;
+    width: 100%;
+    background-color: gold;
+}
+
+.footer-top{
+    background-color: #3A546D;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.text{
+    background-color: salmon;
+    height: 40px;
+}
+
+.text-1{
+    background-color: rgb(150, 114, 250);
+    height: 40px;
+}
+
+.text-2{
+    background-color: rgb(191, 236, 30);
+    height: 40px;
+}
+
+.footer-bottom{
+    background-color: #2C3E50;
 }
 
 
