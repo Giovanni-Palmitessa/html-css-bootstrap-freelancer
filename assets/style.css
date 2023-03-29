@@ -10,10 +10,22 @@ nav{
 .acqua{
     background-color: #1ABC9C;
     padding-top: 56px;
+    padding-bottom: 56px;
 }
 
 .acqua .container .text-center img{
     width: 200px;
+}
+
+.starred{
+    max-width: 200px;
+    margin: auto;
+    align-items: center;
+}
+
+.line{
+    /* background-color: white; */
+    height: 4px;
 }
 
 .white{
