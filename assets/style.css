@@ -32,10 +32,8 @@ nav{
     padding-bottom: 56px;
 }
 
-.square{
-    height: 100px;
-    width: 100%;
-    background-color: gold;
+.send{
+    background-color: #1ABC9C;
 }
 
 .footer-top{
