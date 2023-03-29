@@ -38,23 +38,18 @@ nav{
 
 .footer-top{
     background-color: #3A546D;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-top: 56px;
+    padding-bottom: 56px;
 }
 
-.text{
-    background-color: salmon;
-    height: 40px;
+.logo{
+    width: 30px;
+    height: 30px;
 }
 
-.text-1{
-    background-color: rgb(150, 114, 250);
-    height: 40px;
-}
-
-.text-2{
-    background-color: rgb(191, 236, 30);
-    height: 40px;
+.link-boot{
+    color: #1ABC9C;
+    text-decoration: none;
 }
 
 .footer-bottom{
