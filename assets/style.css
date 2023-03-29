@@ -1,6 +1,9 @@
-header{
+nav{
     background-color: #2C3E50;
-    padding: 1rem;
+}
+
+.nav-link{
+    color: white;
 }
 
 .colored{
