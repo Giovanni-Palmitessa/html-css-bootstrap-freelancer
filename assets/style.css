@@ -24,49 +24,14 @@ nav{
 }
 
 .line{
-    /* background-color: white; */
     height: 4px;
 }
 
 .white{
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 56px;
+    padding-bottom: 56px;
 }
 
-hr{
-    background-color: black;
-    height: 5px;
-    opacity: 1;
-}
-
-.contents{
-    height: 200px;
-    border-radius: 10px;
-}
-
-.rosso{
-    background-color: red;
-}
-
-.celeste{
-    background-color: aquamarine;
-}
-
-.nero{
-    background-color: black;
-}
-
-.azzurro{
-    background-color: aqua;
-}
-
-.blu{
-    background-color: blue;
-}
-
-.seppia{
-    background-color: antiquewhite;
-}
 
 .center{
     justify-content: center;
