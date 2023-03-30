@@ -58,6 +58,10 @@ nav{
     background-color: #1ABC9C;
 }
 
+.send:hover{
+    background-color: #1ABC9C;
+}
+
 .footer-top{
     background-color: #3A546D;
     padding-top: 56px;
